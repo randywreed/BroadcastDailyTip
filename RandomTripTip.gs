@@ -38,7 +38,7 @@ function GetTripTip() {
 
 //Parameters set here, 
 //OrigGSpreadsheetID is the ID for the spreadsheet with the tips
-var OrigGSpreadsheetID='1c-PwNmXAj1KVrc2GW4ChdiH-nc-QqJ0Cv_1C8BVgthk'
+var OrigGSpreadsheetID='googleID'
 //CurrrentGSpreadsheetSheet is the sheet name for the output spreadsheet
 var CurrentGSpreadsheetSheet = 'Sheet1'
 
